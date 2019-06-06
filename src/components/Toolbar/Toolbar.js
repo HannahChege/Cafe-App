@@ -7,7 +7,7 @@ const toolbar = props => (
         <div>
         <div DrawerToggleButton />
         </div>
-            <div className="toolbar__logo">  Yummyy </div>
+            <div className="toolbar__logo">  Yummy Cafe </div>
             <div class="spacer"/>
             <div className="toolbar_navigation-items">
                 <ul>
@@ -19,3 +19,4 @@ const toolbar = props => (
 );
 
 export default toolbar;
+
