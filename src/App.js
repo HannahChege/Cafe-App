@@ -12,7 +12,7 @@ class App extends Component {
             <p>What Do You Wanna Eat?</p>
             <div className='button'>
           <button>
-            <h1>Add food menu</h1>
+            <h1>Add menu</h1>
           </button>
           </div>
           </div>
