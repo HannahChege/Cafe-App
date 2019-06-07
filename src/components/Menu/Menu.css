@@ -1,0 +1,62 @@
+body{
+    margin:0;
+    width: 100%;
+    background-image: url("https://images.wallpaperscraft.com/image/food_inscription_dessert_45209_1280x720.jpg");
+  }
+  .nav{
+    background: ;
+    padding: 5px;
+    text-align: center;
+  }
+  .nav h4{
+    font-family: 'Raleway', sans-serif; 
+    letter-spacing: 1px;
+    color:white;
+    font-size: 25px;
+    text-align: center;
+  }
+  .menu h2{
+    text-align: center;
+     font-family: 'Raleway', sans-serif; 
+  }
+  
+  .menu button{
+    background: white;
+    color:white;
+  }
+  .menu .input{
+    text-align: center;
+  }
+  .menu .text{
+    text-align: center;
+  }
+  .menu .second-part{
+    margin-bottom: 60px;
+  }
+  .second-part p{
+    text-align: center;
+  }
+  .salad{
+    /* border:1px solid #f5f5f5;; */
+    margin:auto;
+    width:50%;
+    padding:50px;
+    text-align: center; 
+    padding-top: 350px;
+  }
+  .salad select{
+    width:100%;
+    color: white;
+    height: 50px;
+    background: wheat;
+    font-weight: 600;
+    font-size: medium;
+    border-color:white;
+  }
+  .salad select:focus{
+    outline-color: white
+  }
+  options:hover{
+    background: pink;
+    color:white;
+  }
