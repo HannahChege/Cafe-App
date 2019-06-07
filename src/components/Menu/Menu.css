@@ -7,6 +7,13 @@ body{
     background: ;
     padding: 5px;
     text-align: center;
+    font-size: 100px;
+    font-style: italic;
+  }
+  .button{
+      float:right;
+      padding-bottom: 150px;
+      font-size: 10px;
   }
   .nav h4{
     font-family: 'Raleway', sans-serif; 
@@ -22,7 +29,7 @@ body{
   
   .menu button{
     background: white;
-    color:white;
+    color:black;
   }
   .menu .input{
     text-align: center;
@@ -39,16 +46,20 @@ body{
   .salad{
     /* border:1px solid #f5f5f5;; */
     margin:auto;
-    width:50%;
+    width:100%;
     padding:50px;
     text-align: center; 
-    padding-top: 350px;
+    padding-top: 320px;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 0 0 5px 5px #F2F2F2;
+    border-width: 20px
   }
   .salad select{
     width:100%;
-    color: white;
+    color:black;
     height: 50px;
-    background: wheat;
+    background: white;
     font-weight: 600;
     font-size: medium;
     border-color:white;
